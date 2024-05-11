@@ -1,13 +1,13 @@
 
 # PCD_UTS_202231126_2024_ITPLN
 
-Project ini adalah hasil pengerjaan UTS Pengolahan Citra Digital_D, dimulai dari : 
+Project ini adalah hasil pengerjaan UTS Pengolahan Citra Digita, dengan proyek : 
 
-- Pengambilan citra
-- Deteksi warna citra
-- Menghitung nilai ambang batas warna citra
+- pengambilan citra
+- deteksi warna citra
+- hitung nilai ambang batas warna citra
 
-Project ini ditujukan kepada pengajar Pengolahan Citra Digital_D, agar dapat dinilai selesai.
+Project ini ditujukan kepada pengajar Pengolahan Citra Digital, hingga UTS selesai.
 ## Authors
 
 - ananda batara putra 202231126
