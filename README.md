@@ -16,7 +16,9 @@ Project ini ditujukan kepada pengajar Pengolahan Citra Digital, hingga UTS seles
 
  Ikuti petunjuk soal dan ambil foto pada selembar kertas yang bertuliskan nama lengkap peserta dengan  warna merah, hijau, dan biru, dengan instruktur akan menentukan aturan lain.
  - bahan citra = mobil.jpeg
+ 
  Setelah menyiapkan karya seni dan mengedit gambar, peserta akan diinstruksikan  untuk memanipulasi keseluruhan gambar menggunakan pemrograman Python.
+ 
  - algoritma dan teori: 
  1. Ambil gambar dan buat file Phyton baru.
  2. Impor perpustakaan dan muat file gambar. File gambar sebelumnya berada di lokasi yang sama dengan file Phyton.
